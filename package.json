@@ -29,5 +29,6 @@
     "puppeteer": "^1.0.0",
     "redis": "^2.8.0",
     "uuid": "^3.2.1"
-  }
+  },
+  "devDependencies": {}
 }
